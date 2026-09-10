@@ -1,6 +1,6 @@
 # EN3160 Assignment 1 — Intensity Transformations and Neighborhood Filtering
 
-Solutions for EN3160 (Image Processing and Machine Vision) Assignment 1.
+This GitHub repo was created for the module EN3160 (Image Processing and Machine Vision) Assignment 1.
 
 ## Contents
 
@@ -27,7 +27,3 @@ Solutions for EN3160 (Image Processing and Machine Vision) Assignment 1.
 pip install -r requirements.txt
 jupyter notebook Assignment1.ipynb
 ```
-
-## Report
-
-The submitted report (`your_index_a01.pdf`) is exported directly from `Assignment1.ipynb`.

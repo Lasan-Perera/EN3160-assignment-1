@@ -8,19 +8,6 @@ This GitHub repo was created for the module EN3160 (Image Processing and Machine
 - `images/` — input images used by the notebook
 - `en3160_assignment_01.pdf` — assignment brief
 
-## Questions
-
-1. Piecewise linear intensity transformation
-2. Accentuating white/gray matter in a brain MRI
-3. Gamma correction on the L plane (L\*a\*b\*)
-4. Vibrance enhancement via the saturation plane
-5. Custom histogram equalization
-6. Foreground-only histogram equalization
-7. Sobel filtering (filter2D, manual, separable kernel)
-8. Image zooming (nearest-neighbor and bilinear interpolation)
-9. GrabCut segmentation and background blur
-10. Bilateral filtering (OpenCV vs. custom implementation)
-
 ## Setup
 
 ```bash
